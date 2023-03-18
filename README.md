@@ -22,6 +22,18 @@ git clone https://github.com/vitorsemidio-dev/gcc-find-a-friend-api.git
 npm install
 ```
 
+**Copie as variáveis de ambiente**
+
+```bash
+cp .env.exemple .env
+```
+
+**Execute as migrations**
+
+```bash
+npx prisma migrate dev
+```
+
 **Rode seed**
 
 ```bash
