@@ -6,7 +6,7 @@ Com o Find a Friend, você pode procurar por animais de estimação que se adequ
 
 Não hesite em usar nossos filtros de pesquisa para encontrar um animal de estimação que se encaixe nas suas necessidades e desejos. Estamos aqui para ajudá-lo em cada passo do caminho, para garantir que você encontre um amigo que trará muita alegria e amor para sua vida. Obrigado por escolher o Find a Friend para ajudá-lo nesta jornada de adoção!
 
-Acesse a aplicação web através deste link: [Find A Friend Web](https://github.com/vitorsemidio-dev/gcc-find-a-friend-web)
+Acesse o repositório da aplicação web através deste link: [Find A Friend Web](https://github.com/vitorsemidio-dev/gcc-find-a-friend-web)
 
 ## 🧭 Como rodar o projeto
 
