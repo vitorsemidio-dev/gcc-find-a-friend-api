@@ -46,10 +46,9 @@ export async function appRoutes(app: FastifyInstance) {
           photo_url: `${process.env.APP_URL}/images/${pet.photo}`,
         })),
       })
-    } catch (err) {
+    } catch {
       return reply.status(400).send({
         error: 'O parâmetros de busca são inválidos',
-        err,
       })
     }
   })
