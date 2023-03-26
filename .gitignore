@@ -3,6 +3,6 @@ dist
 uploads
 !uploads/*.gitkeep
 .env
-prisma/dev.db
+prisma/*.db
 tmp
 !tmp/*.gitkeep
