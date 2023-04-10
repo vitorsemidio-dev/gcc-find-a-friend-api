@@ -9,7 +9,10 @@ import { appRoutes } from './routes'
 
 const app = fastify()
 
-app.register(cors)
+app.register(cors, {
+  origin: true,
+  credentials: true,
+})
 app.register(fastifyJwt, {
   secret: String(process.env.JWT_SECRET),
   cookie: {
